@@ -304,3 +304,131 @@ console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resou
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1679996491109	geckodriver	INFO	Listening on 127.0.0.1:57853
+1679996491113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44345" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerkd926"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1679996492820	Marionette	INFO	Listening on port 46757
+1679996492864	Marionette	WARN	TLS certificate errors will be ignored for this session
+1679996492885	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 668"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:668:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2112:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:52:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:21
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 668, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 668: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1680022866303	geckodriver	INFO	Listening on 127.0.0.1:34617
+1680022866803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilep2t8E5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1680022869758	Marionette	INFO	Listening on port 46629
+1680022869858	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680022869882	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1680023628851	geckodriver	INFO	Listening on 127.0.0.1:35301
+1680023628860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexeJHm4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1680023631874	Marionette	INFO	Listening on port 40531
+1680023631939	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680023631965	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1680023805156	geckodriver	INFO	Listening on 127.0.0.1:54021
+1680023805662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45193" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePb0xmb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1680023808437	Marionette	INFO	Listening on port 39987
+1680023808503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680023808527	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1680024318544	geckodriver	INFO	Listening on 127.0.0.1:59573
+1680024318552	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57767" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile222CdF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1680024321443	Marionette	INFO	Listening on port 33749
+1680024321505	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680024321549	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1680103577195	geckodriver	INFO	Listening on 127.0.0.1:48239
+1680103577693	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47137" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFHDQgQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1680103579714	Marionette	INFO	Listening on port 46225
+1680103579864	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680103579885	Marionette	ERROR	[18] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: https://micro.rubiconproject.com/prebid/dynamic/7470.js, line 24: TypeError: e.metrics.getMetrics()['adapter.client.net'] is undefined
+JavaScript error: https://cdn.permutive.com/d2fb08da-1c03-4c8a-978f-ad8a96b4c31f-web.js, line 1: NetworkRequestFailedError: Network request failed
+JavaScript error: https://cdn.permutive.com/d2fb08da-1c03-4c8a-978f-ad8a96b4c31f-web.js, line 1: NetworkRequestFailedError: Network request failed
+JavaScript error: https://cdn.permutive.com/d2fb08da-1c03-4c8a-978f-ad8a96b4c31f-web.js, line 1: NetworkRequestFailedError: Network request failed
+JavaScript error: https://cdn.permutive.com/d2fb08da-1c03-4c8a-978f-ad8a96b4c31f-web.js, line 1: NetworkRequestFailedError: Network request failed
+JavaScript error: https://cdn.permutive.com/d2fb08da-1c03-4c8a-978f-ad8a96b4c31f-web.js, line 1: NetworkRequestFailedError: Network request failed
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1680104301879	geckodriver	INFO	Listening on 127.0.0.1:39223
+1680104301883	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33315" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAsG4eg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1680104303655	Marionette	INFO	Listening on port 37525
+1680104303711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680104303724	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1680104375611	geckodriver	INFO	Listening on 127.0.0.1:57467
+1680104375615	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelDtzaC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1680104377616	Marionette	INFO	Listening on port 33993
+1680104377667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680104377682	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1680104410355	Marionette	INFO	Stopped listening on port 37525
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1680166455392	Marionette	INFO	Stopped listening on port 33993
+1680192965980	geckodriver	INFO	Listening on 127.0.0.1:38909
+1680192966483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejzvMDy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1680192968547	Marionette	INFO	Listening on port 37301
+1680192968615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680192968625	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
