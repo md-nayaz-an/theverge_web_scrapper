@@ -304,3 +304,104 @@ console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resou
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1680278844342	geckodriver	INFO	Listening on 127.0.0.1:56071
+1680278844837	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "49427" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4fa1dZ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1680278846554	Marionette	INFO	Listening on port 34699
+1680278846689	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680278846712	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1680278906322	geckodriver	INFO	Listening on 127.0.0.1:33107
+1680278906829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "53691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileC75aNt"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1680278908219	Marionette	INFO	Listening on port 45983
+1680278908248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680278908257	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YzZmA7a08v9f087fwqUDZorL-7TBHmPOgPW1cUS8ffQ.js line 2 > eval line 5817 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YzZmA7a08v9f087fwqUDZorL-7TBHmPOgPW1cUS8ffQ.js line 2 > eval line 5817 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1680279264754	geckodriver	INFO	Listening on 127.0.0.1:53759
+1680279265272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "52965" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile17ebCU"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1680279266804	Marionette	INFO	Listening on port 39489
+1680279266895	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680279266910	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YzZmA7a08v9f087fwqUDZorL-7TBHmPOgPW1cUS8ffQ.js line 2 > eval line 561 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YzZmA7a08v9f087fwqUDZorL-7TBHmPOgPW1cUS8ffQ.js line 2 > eval line 561 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1680279580298	geckodriver	INFO	Listening on 127.0.0.1:39481
+1680279580794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "55889" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1TRTs7"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1680279583028	Marionette	INFO	Listening on port 40411
+1680279583124	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680279583137	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 302: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YzZmA7a08v9f087fwqUDZorL-7TBHmPOgPW1cUS8ffQ.js line 2 > eval line 435 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YzZmA7a08v9f087fwqUDZorL-7TBHmPOgPW1cUS8ffQ.js line 2 > eval line 435 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
