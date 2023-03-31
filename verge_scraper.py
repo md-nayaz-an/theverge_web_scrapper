@@ -101,12 +101,12 @@ class scraper():
           'author': author,
           'date': date
         })
-'''
+
         self.cursor.execute('''INSERT OR IGNORE INTO articles
                   (URL, headline, author, date)
                   VALUES(?, ?, ?, ?)''',
                   (url, headline, author, date))
-
+'''
     self.conn.commit()
     self.conn.close()
 
